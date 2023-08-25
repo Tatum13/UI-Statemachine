@@ -9,7 +9,7 @@ public class GamePlayMenuState : UIBaseState
 
     private bool _isPaused;
 
-    protected override void EnterState(){}
+    protected override void EnterState() => TimeScaleController.SetTimeScale(1);
     
     private void Update() => GetPauseState();
 
@@ -23,10 +23,18 @@ public class GamePlayMenuState : UIBaseState
 
     public void Resume()
     {
-        if(!_isPaused) onPause?.Invoke();
-        else onUnpause?.Invoke();
+        if (!_isPaused)
+        {
+            onPause?.Invoke();
+            TimeScaleController.SetTimeScale(0);
+        }
+        else
+        {
+            onUnpause?.Invoke();
+            TimeScaleController.SetTimeScale(1);
+        }
         _isPaused = !_isPaused;
     }
 
-    protected override void ExitState(){}
+    protected override void ExitState() => TimeScaleController.SetTimeScale(0);
 }
