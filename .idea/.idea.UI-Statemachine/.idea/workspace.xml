@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="5a3ed41f-edcb-43b0-8d3b-54d6368c3df0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UI-Statemachine/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UI-Statemachine/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/ExampleCanvas.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/ExampleCanvas.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TimeScaleController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/TimeScaleController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UIStates/CreditsMenuState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UIStates/CreditsMenuState.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UIStates/GamePlayMenuState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UIStates/GameplayMenuState.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UIStates/GamePlayMenuState.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UIStates/PauseMenuState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UIStates/PauseMenuState.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +64,7 @@
       <updated>1692814090451</updated>
       <workItem from="1692814103306" duration="814000" />
       <workItem from="1692957206088" duration="1961000" />
+      <workItem from="1692967225689" duration="2285000" />
     </task>
     <servers />
   </component>
@@ -67,6 +74,17 @@
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="false" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
