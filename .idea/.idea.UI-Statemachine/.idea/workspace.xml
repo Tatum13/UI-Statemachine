@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a3ed41f-edcb-43b0-8d3b-54d6368c3df0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/ExampleCanvas.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/ExampleCanvas.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UIStates/GamePlayMenuState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UIStates/GamePlayMenuState.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UI-Statemachine/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UI-Statemachine/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1692814090451</updated>
       <workItem from="1692814103306" duration="814000" />
-      <workItem from="1692957206088" duration="674000" />
+      <workItem from="1692957206088" duration="1961000" />
     </task>
     <servers />
   </component>
